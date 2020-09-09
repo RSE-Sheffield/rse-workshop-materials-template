@@ -1,6 +1,6 @@
 ---
 title: Setup
-weight: 1
+weight: 100
 chapter: true
 menuTitle: Setup
 ---
