@@ -2,6 +2,7 @@
 title: Setup
 weight: 100
 chapter: true
+pre: <i class="fas fa-cogs"></i>&nbsp;
 menuTitle: Setup
 ---
 
