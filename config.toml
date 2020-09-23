@@ -23,7 +23,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/RSE-Sheffield/git-github-gitkraken-research"
+url = "https://github.com/RSE-Sheffield/rse-workshop-materials-template"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -42,7 +42,7 @@ url = "https://creativecommons.org/licenses/by/4.0/"
 weight = 40
 
 [params]
-  editURL = "https://github.com/RSE-Sheffield/git-github-gitkraken-research/edit/main/content/"
+  editURL = "https://github.com/RSE-Sheffield/rse-workshop-materials-template/edit/main/content/"
   description = "WORKSHOP TITLE"
   author = "AUTHOR NAME(S), Sheffield RSE"
   showVisitedLinks = true
