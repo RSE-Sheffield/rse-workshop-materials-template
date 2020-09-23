@@ -2,7 +2,7 @@
 # Version control through Git, GitHub & GitKraken for researchers
 
 <!-- badges: start -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f063ccc-1fdf-46f2-b93b-ede3b9d8b87b/deploy-status)](https://app.netlify.com/sites/git-github-gitkraken-research/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/846e3c15-8af4-4bba-8fce-02ea13f42e53/deploy-status)](https://app.netlify.com/sites/rse-workshop-material-template/deploys)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
 
