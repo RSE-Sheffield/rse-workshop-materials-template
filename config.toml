@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "WORKSHOP TITLE"
 description = "Materials for RSE Sheffield workshop on 'WORKSHOP TITLE'"
 pygmentsUseClasses=true
+enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "index\\.html", '\.knit\.md$', '\.utf8\.md$']
 
 [module]
