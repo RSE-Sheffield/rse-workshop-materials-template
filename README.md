@@ -32,3 +32,7 @@ It allows me to use:
 
 Also, because slides are in the content, they are indexed by the Hugo learn theme so searchable!
 
+
+## Credits
+
+The workshop materials website template is based on the [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn), [reveal-hugo](https://github.com/dzello/reveal-hugo) Hugo themes and further work and configuration by Maëlle Salmon for her course site on [**Scientific blogging with R Markdown**](https://github.com/maelle/rmd-blogging-course).
