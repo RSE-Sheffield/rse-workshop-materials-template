@@ -36,3 +36,24 @@ Also, because slides are in the content, they are indexed by the Hugo learn them
 ## Credits
 
 The workshop materials website template is based on the [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn), [reveal-hugo](https://github.com/dzello/reveal-hugo) Hugo themes and further work and configuration by Maëlle Salmon for her course site on [**Scientific blogging with R Markdown**](https://github.com/maelle/rmd-blogging-course).
+
+
+## Creating Content
+
+All contect lives in the `content/` folder
+
+To create a new chapter, ideally create a new folder within `content/` use
+
+```
+hugo new --kind chapter <chapter-folder>/_index.md
+```
+
+You can add further sections to the chapter with
+
+```
+hugo new <chapter-folder>/<section-title>.md
+```
+
+It is best to start the file name for new section with a zero padded number, indicating the order of the sections (for visual ordering of the files in your text editor). To set the ordering of each section in the navigation menu, use the `weight` argument in the YAML header of each file. Weights in the chapter YAML header specify the order of the chapters in the navigation panel while weights in normal sections refer to the internal ordering of sections within each chapter.
+
+For more details, refer to the [hugo learn theme](https://learn.netlify.app/en/) documentation site.
